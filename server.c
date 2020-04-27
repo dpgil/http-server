@@ -11,7 +11,7 @@ char *reply =
 "Server: Apache/2.2.3\n"
 "Last-Modified: Sun, 26 Apr 2020 20:08:58 GMT\n"
 "Content-Type: text/html\n"
-"Content-Length: 15\n"
+"Content-Length: 9\n"
 "Accept-Ranges: bytes\n"
 "Connection: close\n"
 "\n"
