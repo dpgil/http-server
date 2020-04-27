@@ -4,6 +4,8 @@ Trying to write an http server from scratch in C
 
 Don't actually use this lol
 
+Built with help from https://ruslanspivak.com/lsbaws-part1/
+
 ## How to run
 
 First, compile with gcc:
